@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/CodeHaven/static/css/main.92c35a1f.css",
+    "main.js": "/CodeHaven/static/js/main.0af337b3.js",
+    "static/js/787.200fab3b.chunk.js": "/CodeHaven/static/js/787.200fab3b.chunk.js",
+    "static/media/insta.png": "/CodeHaven/static/media/insta.49d2d6b9c369ffe163b7.png",
+    "static/media/logo.svg": "/CodeHaven/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/CodeHaven/index.html",
+    "main.92c35a1f.css.map": "/CodeHaven/static/css/main.92c35a1f.css.map",
+    "main.0af337b3.js.map": "/CodeHaven/static/js/main.0af337b3.js.map",
+    "787.200fab3b.chunk.js.map": "/CodeHaven/static/js/787.200fab3b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92c35a1f.css",
+    "static/js/main.0af337b3.js"
+  ]
+}
